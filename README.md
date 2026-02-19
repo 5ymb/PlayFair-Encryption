@@ -4,7 +4,6 @@
 
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java" alt="Java">
   <img src="https://img.shields.io/badge/Security-Cryptography-blue?style=for-the-badge" alt="Cryptography">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
 </div>
 
 <hr />
