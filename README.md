@@ -51,7 +51,7 @@ This implementation follows the classic three-rule logic for transforming plaint
 ### Usage
 1.  **Clone the repo:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Playfair-Cipher.git](https://github.com/YOUR_USERNAME/Playfair-Cipher.git)
+    git clone https://github.com/5ymb/PlayFair-Encryption.git
     ```
 2.  **Compile the code:**
     ```bash
