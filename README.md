@@ -75,4 +75,5 @@ This implementation follows the classic three-rule logic for transforming plaint
 
 <div align="center">
   <p><i>Developed for Educational Purposes in Cybersecurity and Cryptography.</i></p>
+  <p><b>Maintained by <a href="https://github.com/5ymb">5ymb</a></b></p>
 </div>
